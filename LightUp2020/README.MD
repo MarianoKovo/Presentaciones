@@ -5,6 +5,7 @@
 Fecha: 14 de Julio 2020 
 
 Presentación: Synapse Analytics - Analytics en un Nuevo Nivel
+
 Level: 100
 
- PowerPoint DECK: Azure Synapse Analytics–Analytics en un nuevo Nivel.pdf 
+PowerPoint Deck: Azure Synapse Analytics–Analytics en un nuevo Nivel.pdf 
